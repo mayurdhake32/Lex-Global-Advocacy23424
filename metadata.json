@@ -1,0 +1,8 @@
+{
+  "name": "Lex Global Advocacy",
+  "description": "Lex Global Advocacy - International chambers and premier legal counsel across dispute resolution, cross-border corporate practice, maritime advocacy, and regulatory jurisprudence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
